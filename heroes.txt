@@ -1,3 +1,7 @@
 Lista bohaterów​
 ---------------​
+<<<<<<< HEAD
 Gandalf
+=======
+Batman
+>>>>>>> a505a22 (Create folder heroes/ with Gandalf details Update heroes.txt with details about batman)
